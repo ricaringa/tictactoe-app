@@ -1,0 +1,8 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/ricaringa/tictactoe-app",
+  "author": "ricaringa",
+  "license": "MIT"
+}
